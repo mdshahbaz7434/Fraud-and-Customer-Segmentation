@@ -1,0 +1,15 @@
+{
+    "git.ignoreLimitWarning": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "fraud_postgre",
+            "database": "postgres",
+            "username": "postgres",
+            "password": "rootpo"
+        }
+    ]
+}
